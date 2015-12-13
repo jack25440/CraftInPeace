@@ -1,0 +1,17 @@
+[
+{
+  "modid": "CraftInPeace",
+  "name": "Craft In Peace",
+  "description": "",
+  "version": "1.7.10-1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["jack25440"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "parent":"",
+  "dependencies": []
+}
+]
